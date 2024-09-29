@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373884592252",
+    "project_id": "kotlinapp-4002e",
+    "storage_bucket": "kotlinapp-4002e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373884592252:android:505fea7ce79d6d505da9f9",
+        "android_client_info": {
+          "package_name": "com.example.finalkotlinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTk8tQG7uQTxD_YZ-4apaCe-XsHkHHM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
